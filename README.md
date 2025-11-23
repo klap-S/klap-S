@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi
+## Soy klap-S, empezando mi camino en la programación, motivado por aprender y desarrollar cosas que en el futuro serán increíbles.
 
 <!--
 **klap-S/klap-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
